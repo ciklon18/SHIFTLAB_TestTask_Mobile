@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">TaskShift</string>
+    <string name="name_text">Имя</string>
+    <string name="surname_text">Фамилия</string>
+    <string name="date_text">Дата рождения</string>
+    <string name="password_text">Пароль</string>
+    <string name="confirm_password_text">Подтверждение пароля</string>
+    <string name="hide_password_description">Скрыть пароль</string>
+    <string name="show_password_description">Отобразить пароль</string>
+    <string name="confirm_registration">Регистрация</string>
+    <string name="greeting_page">Приветствие</string>
+    <string name="greeting_message">Приветствую, %1$s</string>
+    <string name="blank_name_error">Поле имени не может быть пустым</string>
+    <string name="short_name">Имя слишком короткое. Минимальная длина не достигнута</string>
+    <string name="digit_name">Имя не должно содержать цифры</string>
+    <string name="many_upper_letters_name">Имя должно иметь следующий формат: Ivan</string>
+    <string name="blank_surname">Поле фамилии не может быть пустым</string>
+    <string name="short_surname">Фамилия слишком короткая. Минимальная длина не достигнута</string>
+    <string name="digit_surname">Фамилия не должна содержать цифры</string>
+    <string name="many_upper_letters_surname">Фамилия должна иметь следующий формат: Ivanov</string>
+    <string name="incorrect_date">Дата не может быть раньше 01.01.1900 года</string>
+    <string name="incorrect_format_date">Некорректный формат даты. Используйте формат ДД.ММ.ГГГГ</string>
+    <string name="incorrect_symbol_date">Дата содержит недопустимые символы.\n Допустимымыми символами являются цифры и .</string>
+    <string name="blank_date">Поле даты не может быть пустым</string>
+    <string name="miss_letter_or_digit">Пароль должен содержать хотя бы одну букву и одну цифру</string>
+    <string name="blank_password">Поле пароля не может быть пустым</string>
+    <string name="blank_repeated_password">Поле повторного пароля не может быть пустым</string>
+    <string name="not_matched_passwords">Пароли не совпадают. Пожалуйста, введите одинаковые пароли</string>
+    <string name="succesful_registration">Регистрация прошла успешно</string>
+    <string name="gap_name">Имя не может содержать пробел</string>
+    <string name="low_first_letter_name">Имя должно начитаться с заглавной буквы</string>
+    <string name="validation_error_message">Пожалуйста, проверьте введенные данные на корректность</string>
+    <string name="shift_text">ShiftLab</string>
 </resources>
